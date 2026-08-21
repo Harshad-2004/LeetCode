@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Harshad-2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshad-2004/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshad-2004/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshad-2004/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Harshad-2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Harshad-2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
