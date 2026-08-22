@@ -22,6 +22,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshad-2004/LeetCode/tree/master/0002-add-two-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshad-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshad-2004/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
