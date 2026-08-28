@@ -38,6 +38,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshad-2004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Harshad-2004/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Harshad-2004/LeetCode/tree/master/0006-zigzag-conversion) |
 | [1927-sum-game](https://github.com/Harshad-2004/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshad-2004/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshad-2004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
