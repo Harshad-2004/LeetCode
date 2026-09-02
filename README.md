@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshad-2004/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Harshad-2004/LeetCode/tree/master/0007-reverse-integer) |
 | [1872-stone-game-viii](https://github.com/Harshad-2004/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Harshad-2004/LeetCode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshad-2004/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
