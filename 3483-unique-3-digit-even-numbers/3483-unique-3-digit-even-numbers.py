@@ -5,7 +5,7 @@ class Solution:
         freq = Counter(digits)
         valid_count = 0
         
-        # Check all 3-digit even numbers from 100 to 998
+        # Check every 3-digit even number from 100 to 998
         for num in range(100, 1000, 2):
             d1 = num // 100
             d2 = (num // 10) % 10
