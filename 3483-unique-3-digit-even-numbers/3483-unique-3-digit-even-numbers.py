@@ -1,7 +1,8 @@
 from collections import Counter
+from typing import List
 
 class Solution:
-    def totalNumbers(self, digits: list[int]) -> int:
+    def totalNumbers(self, digits: List[int]) -> int:
         freq = Counter(digits)
         valid_count = 0
         
