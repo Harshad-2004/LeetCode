@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshad-2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0835-image-overlap](https://github.com/Harshad-2004/LeetCode/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/Harshad-2004/LeetCode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshad-2004/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshad-2004/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -150,6 +151,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Harshad-2004/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshad-2004/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
